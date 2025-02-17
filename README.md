@@ -1,4 +1,7 @@
 # E-hailing_app
+![Untitled design](https://github.com/user-attachments/assets/1e3e0059-f9de-4fbc-b807-a0d9b95849e4)
+Design Link: https://www.figma.com/design/YGlLndG1pOD8trZ0STro7O/Tag-Along-App-designs?node-id=0-1&t=B0YqSJoJcOe3BZvK-1
+
 🚖 **E-Hailing Service App** – A full-stack ride-hailing application built with **Node.js, MongoDB, React Native, and Expo**. This app enables riders to request rides, matches them with nearby drivers, and provides real-time trip updates.  
 
 ### **Features**  
